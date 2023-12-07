@@ -3,13 +3,14 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>凸燃</title>
+  <title>日程表</title>
   <style>
     body {
       background-color: #f5f5f5;
       font-family: Arial, sans-serif;
     }
-    h1, h2 {
+    
+    h1 {
       text-align: center;
       font-size: 2em;
       margin-top: 20px;
@@ -18,7 +19,7 @@
     }
     
     p {
-      text-align: right;
+      text-align: center;
       font-size: 0.8em;
       margin-right: 20px;
       color: #999;
@@ -38,10 +39,7 @@
   </style>
 </head>
 <body>
-  <h1>活动安排信息</h1>
-  <p>日期: 2023-12-06 18:45:06</p>
-  <img src="https://i.xs-tc.cn/27c1-43ce02ed6b.jpg" alt="小王子工作室">
-  <h2>日程表</h2>
+  <h1>日程表</h1>
   <p>日期: 2023-12-06 18:45:06</p>
   <img src="https://i.xs-tc.cn/27c1-3a0ee6c224.jpg" alt="小王子工作室">
 </body>
